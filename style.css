@@ -1,0 +1,28 @@
+h1 {
+    color: blue;
+    background-color: orange;
+    border: 6px solid red;
+}
+
+h2 {
+    color: lime;
+    background-color: purple;
+}
+
+div {
+    color: orange;
+    background-color: green;
+    border: 9px dotted red;
+}
+
+p {
+    color: maroon;
+    background-color: aqua;
+}
+
+#page-container {
+    max-width: 900px;
+    width: 100%;
+    min-width: 500px;
+    margin: auto;
+}
