@@ -11,13 +11,13 @@ h2 {
 
 div {
     color: orange;
-    background-color: green;
-    border: 9px dotted red;
+    background-color: #009688;
+    border: 9px dotted white;
 }
 
 p {
-    color: maroon;
-    background-color: aqua;
+    color: white;
+    background-color: #004D40;
 }
 
 #page-container {
