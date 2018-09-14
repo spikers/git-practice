@@ -1,7 +1,6 @@
 1111111
 1111111
-22222222
+CONFLICT
+RESOLUTION
 1111111
 1111111
-
-Conflict 2 Stuff that doesn't matter
