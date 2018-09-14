@@ -1,9 +1,6 @@
 1111111
 1111111
 CONFLICT
+RESOLUTION
 1111111
 1111111
-
-Innocuous Conflict 1 stuff that doesn't matter
-Innocuous line 2
-Innocuous Line 3
