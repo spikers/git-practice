@@ -6,3 +6,4 @@ CONFLICT
 
 Innocuous Conflict 1 stuff that doesn't matter
 Innocuous line 2
+Innocuous Line 3
